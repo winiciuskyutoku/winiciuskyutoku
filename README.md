@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-Meu nome é Winicius, estudante de Engenharia de Software e graduando em Ciências Econômicas pela Universidade Estadual de Maringá!
+Sou Winicius, desenvolvedor front-end com mais de 2 anos de experiência em desenvolvimento de aplicações web modernas e escaláveis.  
 
-####  🔗 Linguagens e Ferramentas que utilizo:
+#### 🚀 Principais tecnologias e ferramentas:
+Next.js • React.js • TypeScript • JavaScript • TailwindCSS • Shadcn/UI • React Query
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" >
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+Apaixonado por criar interfaces performáticas, acessíveis e com código limpo.
